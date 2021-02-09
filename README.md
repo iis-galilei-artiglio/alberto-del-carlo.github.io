@@ -12,6 +12,7 @@ e stabilirne il formato a piacere
 <img src="Immagine.png" width=100>
 
 ## Inserimento Video
+E' possibile inserire link di video caricati esempio su YuoTube partendo da una immagine predefinita
 
 [<img src="robot.png" width="50%">](https://youtu.be/watch?v=2P0j74Kl6sE&feature=youtu.be)
 
