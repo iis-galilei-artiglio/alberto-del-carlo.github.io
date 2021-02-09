@@ -13,7 +13,7 @@ e stabilirne il formato a piacere
 
 ## Inserimento Video
 
-[!Video](https://www.youtube.com/watch?v=2P0j74Kl6sE&feature=youtu.be)
+[![Video](robot.png)](https://www.youtube.com/watch?v=2P0j74Kl6sE&feature=youtu.be)
 
 ### Markdown
 Il linguaggio utilizzato per realizzare la pagina Web con GitHub è il Markdown : is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
