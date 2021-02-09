@@ -5,7 +5,7 @@ Possiamo utilizzare GitHub per realizzare un progetto ipertestuale che facilita 
 ### Possiamo anche inserire immagini 
 le immagini possono essere in formato jpg, png 
 
-<img src="alberto-del-carlo/Immagine.png">
+<img src="Immagine.png">
 
 ### Markdown
 Il linguaggio utilizzato per realizzare la pagina Web con GitHub è il Markdown : is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
