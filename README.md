@@ -7,7 +7,7 @@ le immagini possono essere in formato jpg, png
 
 <img src="Immagine.png">
 
-e stabilirne il formato sempre usando il markdown
+e stabilirne il formato a piacere
 
 <img src="Immagine.png" width=100>
 
