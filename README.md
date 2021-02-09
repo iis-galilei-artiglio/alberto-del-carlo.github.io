@@ -4,6 +4,7 @@ Possiamo utilizzare GitHub per realizzare un progetto ipertestuale che facilita 
 
 ### Possiamo anche inserire immagini 
 le immagini possono essere in formato jpg, png ecc.
+
 ![](https://github.com/alberto-del-carlo/alberto-del-carlo.github.io/blob/main/ridotto2.png)
 
 ### Markdown
