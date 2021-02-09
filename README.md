@@ -3,9 +3,9 @@
 Possiamo utilizzare GitHub per realizzare un progetto ipertestuale che facilita il progetto M4S che tratta di [protisti](https://it.wikipedia.org/wiki/Protista) ma anche di [reti neurali in python](https://github.com/alberto-del-carlo/alberto-del-carlo.github.io/blob/main/object_detection_demo_ssd_async.py)
 
 ### Possiamo anche inserire immagini 
-le immagini possono essere in formato jpg, png ecc.
+le immagini possono essere in formato jpg, png 
 
-![](https://github.com/alberto-del-carlo/alberto-del-carlo.github.io/blob/main/Immagine.png)
+<img src="immagine.png">
 
 ### Markdown
 Il linguaggio utilizzato per realizzare la pagina Web con GitHub è il Markdown : is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
