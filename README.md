@@ -2,7 +2,7 @@
 
 Possiamo utilizzare GitHub per realizzare un progetto ipertestuale che facilita il progetto M4S che tratta di [protisti](https://it.wikipedia.org/wiki/Protista) ma anche di [reti neurali in python](https://github.com/alberto-del-carlo/alberto-del-carlo.github.io/blob/main/object_detection_demo_ssd_async.py)
 
-Possiamo anche inserire immagini ![]()
+Possiamo anche inserire immagini ![](https://github.com/alberto-del-carlo/alberto-del-carlo.github.io/blob/main/ridotto1.png)
 
 ### Markdown
 
