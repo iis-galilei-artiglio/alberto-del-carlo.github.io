@@ -7,6 +7,10 @@ le immagini possono essere in formato jpg, png
 
 <img src="Immagine.png">
 
+e stabilirne il formato sempre usando il markdown
+
+<img src="Immagine.png" width=100>
+
 ### Markdown
 Il linguaggio utilizzato per realizzare la pagina Web con GitHub è il Markdown : is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
