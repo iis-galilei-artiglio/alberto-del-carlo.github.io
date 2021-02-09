@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Possiamo utilizzare GitHub per realizzare un progetto ipertestuale che facilita il progetto M4S che tratta di [protisti](https://it.wikipedia.org/wiki/Protista) 
+Possiamo utilizzare GitHub per realizzare un progetto ipertestuale che facilita il progetto M4S che tratta di [protisti](https://it.wikipedia.org/wiki/Protista) ma anche di [reti neurali in python]()
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
