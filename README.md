@@ -14,7 +14,26 @@ e stabilirne il formato a piacere
 ## Inserimento Video
 E' possibile inserire link di video caricati esempio su YuoTube partendo da una immagine predefinita
 
-[<img src="robot.png" width="50%">](https://youtu.be/watch?v=2P0j74Kl6sE&feature=youtu.be)
+<!DOCTYPE html>
+ <html lang="it"> 
+
+<body>
+    <div class="container">
+         <!-- finestra popup 3 -->
+        <a href="#x" class="overlay" id="win3"></a>
+        <div class="popup">
+            <div class="video">
+         <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
+		    <iframe width="853" height="480" src="https://www.youtube.com/embed/2P0j74Kl6sE" ></iframe>
+            </div>
+            <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
+        </div>
+       
+    </div>
+</body>
+</html>
+
+
 
 ### Markdown
 Il linguaggio utilizzato per realizzare la pagina Web con GitHub è il Markdown : is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
