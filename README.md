@@ -24,7 +24,7 @@ E' possibile inserire link di video caricati esempio su YuoTube partendo da una 
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="682" height="384" src="https://www.youtube.com/embed/2P0j74Kl6sE" ></iframe>
+		    <iframe width="614" height="345" src="https://www.youtube.com/embed/2P0j74Kl6sE" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
