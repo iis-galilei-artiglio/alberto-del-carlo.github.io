@@ -14,7 +14,6 @@ e stabilirne il formato a piacere
 ## Inserimento Video
 E' possibile inserire link di video caricati esempio su YuoTube partendo da una immagine predefinita
 
-<!DOCTYPE html>
  <html lang="it"> 
 
 <body>
